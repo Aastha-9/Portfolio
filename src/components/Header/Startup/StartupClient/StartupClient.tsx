@@ -19,7 +19,7 @@ export default function StartupClient({ children }: { children: React.ReactNode 
             setShowContent(true);
         }
     }, []);
-
+    
     return (
         <>
             {process.env.NEXT_PUBLIC_NODE_ENV === "production" && (
@@ -48,7 +48,7 @@ export default function StartupClient({ children }: { children: React.ReactNode 
                     )}
                 </AnimatePresence>
             )}
-            {process.env.NEXT_PUBLIC_NODE_ENV !== "production" && (
+            {process.env.NEXT_PUBLIC_NODE_ENV !== "production" && ( 
                 <>
                     {children}
                     <ScreenSizeDetector />
