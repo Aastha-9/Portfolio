@@ -10,7 +10,7 @@ function HeadingComponent() {
                     <MagneticButton
                         ariaLabel="View My Career Story"
                         content="My Career Story"
-                        link="https://drive.google.com/file/d/1uo2RIfQRnbLmIvRDbnjVmLwtijK4yPNE/view?usp=sharing"
+                        link="https://drive.google.com/file/d/1FrL1uH1AG8atjqHCkyDOvjaase5-Sld9/view?usp=sharing"
                         styles="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block"
                     />
                 </div>
