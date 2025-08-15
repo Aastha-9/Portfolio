@@ -26,7 +26,7 @@ export default function Navbar() {
                 id="view-resume"
                 style="py-1 px-1 text-[16px] sm:px-4 md:py-1" 
                 color="white" ariaLabel="resume-Icon navbar" 
-                href="https://drive.google.com/file/d/1uo2RIfQRnbLmIvRDbnjVmLwtijK4yPNE/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1FrL1uH1AG8atjqHCkyDOvjaase5-Sld9/view?usp=sharing" 
                 icon={faFilePdf} />
 
             <Magnetic>
